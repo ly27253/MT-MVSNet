@@ -4,4 +4,4 @@ Here we provide the test results of MT-MVSNet on the public datasets of Multivie
 
 ① MT-MVSNet test results on DTU dataset, please download on google cloud drive, the link is:
 
-② The test results on Tanks and Temples dataset have been shown in Tanks and Temples official public display, the link is.
+② The test results on the Tanks and Temples dataset have been displayed on the official website. The results evaluate the BlendedMVS fine-tuned and unfine-tuned models. The test results can be accessed via the following links: https://www.tanksandtemples.org/details/7397/ and https://www.tanksandtemples.org/details/7425/.
