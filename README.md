@@ -1,6 +1,6 @@
 # Experimental Results of MT-MVSNet on Public Datasets
 
-This section presents the experimental results of **MT-MVSNet** evaluated on the public datasets **DTU** and **Tanks & Temples**. The network achieved an overall accuracy of 0.312 mm on the DTU benchmark and an F-score of 54.18% on the Tanks & Temples dataset. The results are provided as unique point cloud files, each representing distinct, non-replicable outputs. The evaluation metrics for the DTU dataset were computed using MATLAB code, following the procedures outlined in the **MVSNet** method (available at: [MVSNet GitHub](https://github.com/YoYo000/MVSNet)). 
+This section presents the experimental results of **MT-MVSNet** evaluated on the public datasets **DTU** and **Tanks & Temples**. The network achieved an overall accuracy of **0.312 mm** on the DTU benchmark and an F-score of **54.18%** (BlendedMVS Unfine-Tuned) on the Tanks & Temples dataset. The results are provided as unique point cloud files, each representing distinct, non-replicable outputs. The evaluation metrics for the DTU dataset were computed using MATLAB code, following the procedures outlined in the **MVSNet** method (available at: [MVSNet GitHub](https://github.com/YoYo000/MVSNet)). 
 
 The methodology and detailed results are described comprehensively in the paper **“MT-MVSNet: A Lightweight and Highly Accurate Convolutional Neural Network Based on Mobile Transformer for 3D Reconstruction of Orchard Fruit Tree Branches”**.
 
