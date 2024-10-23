@@ -4,7 +4,7 @@ This section presents the experimental results of **MT-MVSNet** evaluated on the
 
 To further demonstrate the convergence of our model during training, we have also plotted the training loss curve for the DTU dataset. The following figure shows the trend of Depth Loss over iterations, where we observe a rapid decline in the early stages followed by a gradual decrease, confirming the model's convergence without overfitting or underfitting.
 
-![DTU Training Loss Curve](./训练损失图-final.png)  
+![DTU Training Loss Curve](./Depth_Loss_DTU.png)  
 *Figure X: Training loss curve of MT-MVSNet on the DTU dataset.*
 
 The methodology and detailed results are described comprehensively in the paper **“MT-MVSNet: A Lightweight and Highly Accurate Convolutional Neural Network Based on Mobile Transformer for 3D Reconstruction of Orchard Fruit Tree Branches”**.
