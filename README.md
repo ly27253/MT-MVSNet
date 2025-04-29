@@ -8,7 +8,8 @@ To further demonstrate the convergence of our model during training, we have plo
   <img src="./Depth_Loss_DTU.png" alt="DTU Training Loss Curve" width="80%">
 </p>
 
-The methodology and detailed results are described comprehensively in the paper **“MT-MVSNet: A Lightweight and Highly Accurate Convolutional Neural Network Based on Mobile Transformer for 3D Reconstruction of Orchard Fruit Tree Branches”**.
+The methodology and detailed results are described comprehensively in the paper **“MT-MVSNet: A Lightweight and Highly Accurate Convolutional Neural Network Based on Mobile Transformer for 3D Reconstruction of Orchard Fruit Tree Branches”**, published in Expert Systems with Applications.
+The paper is available at: https://doi.org/10.1016/j.eswa.2024.126220.[BlendedMVS Fine-Tuned Results](https://doi.org/10.1016/j.eswa.2024.126220)
 
 Due to the substantial storage requirements of the point cloud files, the test results on the DTU dataset have been stored on Google Drive. In contrast, the results for the Tanks & Temples dataset are published and accessible via the official Tanks & Temples evaluation platform. The details are provided as follows:
 
